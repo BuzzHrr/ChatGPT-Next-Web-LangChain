@@ -429,7 +429,7 @@ const cn = {
   },
   Store: {
     DefaultTopic: "厉不厉害，你坤哥?",
-    BotHello: "欢迎来到[BUZZ公益站](https://blog.buzzchat.top/article/gptfree-03)！本站无需密码即可直接使用。本站除Gemini模型外其余均采用逆向API，支持已存在的所有模型，但稳定和高速可能二者不可兼得，请见谅！Gemini模型十分稳定，若其余模型宕机请及时反馈并 烦请切换至Gemini模型。但是请注意，插件功能和文本转语音功能暂不可用，如有需要，您可以暂时选择配置自己的API来使用插件功能，目前BUZZ正在努力解决这些问题，以提供更完善的服务。\n\n免责声明：\n\n1. 本站点提供的服务仅供参考和学习使用，我们不对您使用本站所产生的任何结果承担责任。\n2. 请遵守相关法律法规，不要将本站提供的服务用于非法或不道德的目的。\n3. 对于本站提供的服务，我们保留随时修改、更新或终止的权利。\n\n感谢您的理解与支持！如果在使用过程中遇到任何问题，请先查看[站点维护日志](https://blog.buzzchat.top/article/gptfree-03)，您可以在日志页留言或直接[联系我](https://qm.qq.com/q/wpLvAH87cc)来帮您解决问题。如果你觉得该站点对你有帮助的话，也可以选择[支持一下](https://123.buzzchat.top/reward/reward.html)BUZZ，祝您使用愉快！\n\nBUZZ的站点：[BUZZ公益站日志](https://blog.buzzchat.top/article/gptfree-03)|[BUZZの主页](https://home.buzzchat.top/)|[BUZZ Blog](https://blog.buzzchat.top/)",,
+    BotHello: "欢迎来到[BUZZ公益站](https://blog.buzzchat.top/article/gptfree-03)！本站无需密码即可直接使用。本站除Gemini模型外其余均采用逆向API，支持已存在的所有模型，但稳定和高速可能二者不可兼得，请见谅！Gemini模型十分稳定，若其余模型宕机请及时反馈并 烦请切换至Gemini模型。但是请注意，插件功能和文本转语音功能暂不可用，如有需要，您可以暂时选择配置自己的API来使用插件功能，目前BUZZ正在努力解决这些问题，以提供更完善的服务。\n\n免责声明：\n\n1. 本站点提供的服务仅供参考和学习使用，我们不对您使用本站所产生的任何结果承担责任。\n2. 请遵守相关法律法规，不要将本站提供的服务用于非法或不道德的目的。\n3. 对于本站提供的服务，我们保留随时修改、更新或终止的权利。\n\n感谢您的理解与支持！如果在使用过程中遇到任何问题，请先查看[站点维护日志](https://blog.buzzchat.top/article/gptfree-03)，您可以在日志页留言或直接[联系我](https://qm.qq.com/q/wpLvAH87cc)来帮您解决问题。如果你觉得该站点对你有帮助的话，也可以选择[支持一下](https://123.buzzchat.top/reward/reward.html)BUZZ，祝您使用愉快！\n\nBUZZ的站点：[BUZZ公益站日志](https://blog.buzzchat.top/article/gptfree-03)|[BUZZの主页](https://home.buzzchat.top/)|[BUZZ Blog](https://blog.buzzchat.top/)",
     Error: "出错了，稍后重试吧",
     Prompt: {
       History: (content: string) => "这是历史聊天总结作为前情提要：" + content,
